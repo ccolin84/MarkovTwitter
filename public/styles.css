@@ -1,0 +1,20 @@
+.generatedTweet {
+  text-align: center;
+  margin: 50px;
+}
+
+#tweetGenerator {
+  text-align: center;
+}
+
+#App {
+  margin: 50px;
+}
+
+.saveButton {
+  margin: 20px;
+}
+
+.profileImg {
+  border-radius: 10px;
+}
